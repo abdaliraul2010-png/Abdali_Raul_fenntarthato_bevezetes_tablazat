@@ -34,11 +34,7 @@ Mihez kell pénz, munka vagy fenntartás?
 
 4 döntés · 3 szempont
 
-
-Oktatási minta a 10. évfolyam HTML-táblázatos feladatához.
-
-Kiinduló olvasmány: Zöld Föld, 9–10. évfolyam, 11–12. oldal.
-
+++++++++++++++++++
 ### Színek és betűtípusok
 
 használt színek: 
