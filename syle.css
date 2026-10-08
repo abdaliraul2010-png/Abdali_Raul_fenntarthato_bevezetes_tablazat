@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 700px;
+  width: 70%;
+  margin: auto;
+}
+table {border-collapse: collapse;
+}
+th {
+  background-color: #145c4e;
+  color: #ffff;
+}
+tr{
+    color:#145c4e ;
+}
+td{
+    background-color:#ffff ;
+}
+td,tr:nth-child(even) {
+  background-color: #f8faf3;
+}
+div{
+    background-color: #ffff;
+    color: #18352f;
+}
